@@ -1,6 +1,6 @@
 owner=349906494822547471
-prefix= pi
-game= Type pi help
+prefix= Br
+game= Type Br help
 stayinchannel=true
 songinstatus=true 
 token=NTQ0MDgyOTAzNTgwMDE2NjQy.D0F8Ng.IDFy-Fk2mdFY-qA6tjzTaPrnO40
