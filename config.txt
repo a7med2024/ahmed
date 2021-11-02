@@ -1,4 +1,4 @@
-owner=
+owner=702376681394143302
 prefix= a
 game= Type a help
 stayinchannel=true
