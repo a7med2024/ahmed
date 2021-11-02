@@ -1,6 +1,6 @@
-owner=349906494822547471
-prefix= Br
-game= Type Br help
+owner=
+prefix= a
+game= Type a help
 stayinchannel=true
 songinstatus=true 
-token=NTQ0MDgyOTAzNTgwMDE2NjQy.D0F8Ng.IDFy-Fk2mdFY-qA6tjzTaPrnO40
+token=OTA1MTAwNjEzNDk3NTIwMTQ4.YYFKog.krg9Lifv3Ofk16ppc1yoEWT213w
